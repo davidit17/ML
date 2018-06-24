@@ -4,4 +4,4 @@ machine learning challenge from : https://www.drivendata.org/competitions/7/pump
 
 done in google colab  : https://colab.research.google.com/
 
-
+models : knn , logreg , decition tree , Xgboost
