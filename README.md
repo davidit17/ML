@@ -1,7 +1,7 @@
 # ML
 ## Machine Learning
 
-1.predict blood donations - classification -  Knn, Xgboost, log reg
+1.predict blood donations - classification -  Knn, Xgboost, log reg, TensorFlow
 
 2.predict water pump maintenance condition - classification - random forest, decition tree, xgboost
 
