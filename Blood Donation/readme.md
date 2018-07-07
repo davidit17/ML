@@ -7,3 +7,6 @@ done in google colab  : https://colab.research.google.com/
 3 diffrent basic models without preprocessing or feature engineering :
 
 K neighbors , xgboost , LogisticRegression 
+
+
+one deep learning model with tensorFlow
