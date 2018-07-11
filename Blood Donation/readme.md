@@ -10,3 +10,6 @@ K neighbors , xgboost , LogisticRegression
 
 
 one deep learning model with tensorFlow
+
+## log reg model in top 3% leaderboard
+![S2](rank.JPG?raw=true "Title")
