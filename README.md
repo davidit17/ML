@@ -11,7 +11,7 @@
 
 5.predict insurance customers future accidents - classifcation - knn , naive bayes , keras 
 
-
+6.heart disease prediction  - classification - SVM and NN MLPClassifier
 
 f.home credit default risk
 
