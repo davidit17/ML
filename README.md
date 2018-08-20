@@ -16,3 +16,11 @@
 f.home credit default risk
 
 f.predict Santander bank value - regression - xgboost, tensorFlow
+
+
+
+
+https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378
+
+https://recast.ai/blog/machine-learning-algorithms/2/
+
